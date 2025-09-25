@@ -1,0 +1,17 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "You are an emotional assistant. Your job is to identify user's emotion and give out one best emotion."
+          },
+          {
+            "type": "text",
+            "text": "How does the person feel in the image?"
+          },
+          {
+            "type": "image",
+            "image": 
